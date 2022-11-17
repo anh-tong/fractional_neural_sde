@@ -18,11 +18,10 @@ existing models. We examine how we can apply our approach to score-based generat
   <img width="400" height="200" src="./assets/posterior.gif">
   <img width="200" height="200" src="./assets/hurst.gif">
 </p>
---- 
-
+ 
 ### Examples
 
-
+See [example.ipynb](https://github.com/anh-tong/fractional_neural_sde/blob/main/fractional_neural_sde/example.ipynb).
 
 
 ### JAX implementation
@@ -44,7 +43,7 @@ url={https://openreview.net/forum?id=lTZBRxm2q5}
 }
 ```
 
-Acknowlegments
+### Acknowlegments
 
 The PyTorch implementation is based on [torchsde](https://github.com/google-research/torchsde).
 
