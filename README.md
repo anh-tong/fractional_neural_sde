@@ -26,9 +26,9 @@ See [example.ipynb](https://github.com/anh-tong/fractional_neural_sde/blob/main/
 
 ### JAX implementation
 
-After the NeurIPS submission, we develop a JAX version written using [diffrax](https://github.com/patrick-kidger/diffrax) library.
+After the NeurIPS submission, we develop a JAX version based on [diffrax](https://github.com/patrick-kidger/diffrax) library.
 
-See [fractional_neural_sde_jax](https://github.com/anh-tong/fractional_neural_sde/tree/fractional_neural_sde_jax/).
+See [fractional_neural_sde_jax](https://github.com/anh-tong/fractional_neural_sde/tree/main/fractional_neural_sde_jax) folder.
 
 
 ### Citation
